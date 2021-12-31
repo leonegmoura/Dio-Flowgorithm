@@ -1,5 +1,5 @@
-# Flowgorithm para Algoritmo em Fluxograma
-Ótimo Programa para montagem de Fluxogramas e Algoritmos
+# Flowgorithm
+Ótimo Programa para montagem de Algoritmos em Fluxograma.
 
 ## Link para Download
 [Baixar Flowgorithm](http://www.flowgorithm.org/download/index.html)
